@@ -18,3 +18,7 @@ Proactive Measures: In cases of prolonged drowsiness, the system initiates a web
 
 # Conclusion:
 The Drowsiness Detection prototype offers a comprehensive solution to promote road safety through proactive monitoring and timely alerts. With its integration of advanced technologies and thoughtful alert mechanisms, the system contributes to a more intuitive and responsive driving assistance system, prioritizing driver well-being and enhancing overall road safety.
+
+
+# File Need to download:
+shape_predictor_68_face_landmarks.dat
